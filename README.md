@@ -5,7 +5,7 @@
 **Author:** Szymon Rosiński  
 **Status:** Completed September 2026 (valuation date: 31 July 2026)  
 **Data:** IFRS financial statements of mBank and Bank Pekao (FY2021–FY2025, H1 2026), NBP Macroeconomic Survey (June 2026), weekly quotes from Stooq.pl  
-**Access to: [Scope of Work](docs/Scope_of_Work__Banking_Sector_v2_1.docx), [Investor Memo (Polish)](docs/Memo_inwestorskie_v9_2.docx), [Valuation Model](docs/mBank_Pekao_Valuation_Model_v9_1.xlsx)**
+**Access to: [Scope of Work](docs/Scope_of_Work_Banking_Sector_FINAL.docx), [Investor Memo (Polish)](docs/Investor_Memo_PL_FINAL.docx), [Valuation Model](docs/DDM_Model_ENG_FINAL.xlsx)**
  
 ---
  
